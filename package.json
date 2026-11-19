@@ -1,0 +1,12 @@
+{
+  "name": "chess-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Локальные шахматы и анализ Stockfish",
+  "scripts": {
+    "start": "node server.cjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
